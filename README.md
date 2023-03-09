@@ -1,1 +1,1 @@
-# Projeto de Portfolio criado durante as aulas do Curso da Origamid.
+# Projeto de Portfólio criado durante as aulas do Curso da Origamid.
